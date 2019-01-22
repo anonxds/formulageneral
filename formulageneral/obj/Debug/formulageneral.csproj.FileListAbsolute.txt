@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\formulageneral\formulageneral\bin\Debug\formulageneral.exe.config
+C:\Users\user\source\repos\formulageneral\formulageneral\bin\Debug\formulageneral.exe
+C:\Users\user\source\repos\formulageneral\formulageneral\bin\Debug\formulageneral.pdb
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.csprojAssemblyReference.cache
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.Form1.resources
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.Properties.Resources.resources
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.GenerateResource.cache
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.exe
+C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.pdb
