@@ -8,3 +8,13 @@ C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulagenera
 C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.exe
 C:\Users\user\source\repos\formulageneral\formulageneral\obj\Debug\formulageneral.pdb
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\formulageneral.exe.config
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\formulageneral.exe
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\formulageneral.pdb
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csprojAssemblyReference.cache
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.Form1.resources
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.Properties.Resources.resources
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.GenerateResource.cache
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CoreCompileInputs.cache
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.exe
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.pdb
