@@ -18,3 +18,5 @@ C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\for
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CoreCompileInputs.cache
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.exe
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.pdb
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\datos.mdf
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\datos_log.ldf
