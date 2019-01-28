@@ -27,3 +27,10 @@ C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\Ent
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.xml
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.dll.config
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CopyComplete
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csprojAssemblyReference.cache
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\formulageneral.exe.manifest
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\formulageneral.application
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.exe.manifest
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.application
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\x86\SQLite.Interop.dll

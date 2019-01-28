@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using System.Data.SQLite;
+
 using System.IO;
 
 namespace formulageneral
@@ -23,7 +24,7 @@ namespace formulageneral
         
         private void setcon()
         {
-            con = new SQLiteConnection("Data Source=registros.sqlite3;Version=3;New=False;Compress=true;");
+            con = new SQLiteConnection("Data Source=./registros.sqlite3;Version=3;New=False;Compress=true;");
         }
         private void Exe(string query)
         {
