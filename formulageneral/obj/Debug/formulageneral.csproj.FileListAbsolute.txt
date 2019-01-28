@@ -18,5 +18,13 @@ C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\for
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CoreCompileInputs.cache
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.exe
 C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.pdb
-C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\datos.mdf
-C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\datos_log.ldf
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\EntityFramework.dll
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.dll
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\EntityFramework.xml
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.xml
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Reborn 3.0\Documents\GitHub\formulageneral\formulageneral\obj\Debug\formulageneral.csproj.CopyComplete
